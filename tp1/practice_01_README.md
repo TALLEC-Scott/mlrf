@@ -38,6 +38,10 @@ scipy==1.2.1
 opencv-contrib-python-headless==4.0.0.21
 ```
 
+### Data for training
+
+THe data is hosted on my personal one drive and can be accessed via https://1drv.ms/f/s!AmNJyhtb-H-0hIkZ8hvPUj4Vr705Pg?e=hP1f3s
+
 
 ## Copyright note
 *Twin it!* material is copyrighted by the original author, Thomas Vuarchex.
