@@ -27,6 +27,10 @@ pip install --user -r practice_02_requirements.txt
 
 Then, open the first notebook: `practice_02-00_intro.ipynb`.
 
+### Data for training
+
+The data is hosted on my personal one drive and can be accessed via https://1drv.ms/f/s!AmNJyhtb-H-0hIkZ8hvPUj4Vr705Pg?e=hP1f3s
+
 
 ## Copyright note
 *Twin it!* material is copyrighted by the original author, Thomas Vuarchex.
